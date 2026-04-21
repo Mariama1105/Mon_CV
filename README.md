@@ -1,4 +1,4 @@
-# 👋 Mariama Ngom
+#  Mariama Ngom
 
 🎓 Étudiante en licence 3 Data & IA  
 📍 Dakar, Sénégal  
